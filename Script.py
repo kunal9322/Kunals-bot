@@ -30,11 +30,11 @@ class script(object):
 
 <code>/batch https://t.me/campus_bot_updates https://t.me/campus_bot_updates</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/campus_bot_updates><b>𝙼𝙺𝙽 𝙱𝙾𝚃𝚉</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/campus_bot_updates><b>𝙲𝚊𝚖𝚙𝚞𝚜 𝙱𝚘𝚝</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and 𝚋𝚘𝚝  will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. This bot should have admin privillage.
